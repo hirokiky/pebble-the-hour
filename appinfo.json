@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Hiroki Kiyohara",
+    "longName": "the Hour",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/thehour28.png",
+                "menuIcon": true,
+                "name": "IMAGE_THUMANIL",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Bonk Offset.ttf",
+                "name": "FONT_BONK_OFFSET_62",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "the Hour",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "52f36332-c596-4b83-8a6d-1970e648983b",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
